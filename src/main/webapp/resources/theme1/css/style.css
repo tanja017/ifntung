@@ -1,0 +1,72 @@
+@CHARSET "UTF-8";
+.b1 {
+	    background: lightsteelblue; /* Синий цвет фона */ 
+	    color: midnightblue; /* Белые буквы */ 
+	    font-size: 9pt; /* Размер шрифта в пунктах */
+	    
+	   		}
+	   	.b2 {
+	    background: lightblue; /* Синий цвет фона */ 
+	    color: midnightblue; /* Белые буквы */ 
+	    font-size: 9pt; /* Размер шрифта в пунктах */
+	    font-size: 13px;
+    	padding: 5px 12px;
+   		height: 30px;
+	    border-radius: 0!important;
+	    border: none;
+	    border-bottom: 1px dashed #999;
+	    font-family: inherit;
+   		font-size: inherit;
+    	line-height: inherit;
+    	    text-transform: none;
+    	        -webkit-appearance: button;
+    	cursor: pointer;
+	   		}
+	   	.b3 {
+	    background: lightsteelblue; /* Синий цвет фона */ 
+	    color: midnightblue; /* Белые буквы */ 
+	    font-size: 9pt; /* Размер шрифта в пунктах */
+	    font-size: 13px;
+    	padding: 5px 12px;
+   		height: 30px;
+	    border-radius: 0!important;
+	    border: none;
+	    
+	   		}
+.logotypes-block a.item-logo, .logotype-slides a.item-logo {background-image: url(http://i.work.ua/sprite/6f0994ec5e05149eee73abb0a2ba5298.png);background-repeat: no-repeat}
+.e101383 {background-position: 0 -0px}
+.e3905 {background-position: 0 -50px}
+.e1518 {background-position: 0 -100px}
+.e28708 {background-position: 0 -150px}
+.e28907 {background-position: 0 -200px}
+.e17254 {background-position: 0 -250px}
+.e34748 {background-position: 0 -300px}
+.e101840 {background-position: 0 -350px}
+.e75011 {background-position: 0 -400px}
+.e68513 {background-position: 0 -450px}
+.e100879 {background-position: 0 -500px}
+.e44303 {background-position: 0 -550px}
+.e21751 {background-position: 0 -600px}
+.e307332 {background-position: 0 -650px}
+.e84964 {background-position: 0 -700px}
+.e40787 {background-position: 0 -750px}
+.e42923 {background-position: 0 -800px}
+.e9462 {background-position: 0 -850px}
+.e49881 {background-position: 0 -900px}
+.e96096 {background-position: 0 -950px}
+.e91085 {background-position: 0 -1000px}
+.e86333 {background-position: 0 -1050px}
+.e67136 {background-position: 0 -1100px}
+.e42487 {background-position: 0 -1150px}
+.e71695 {background-position: 0 -1200px}
+.e19423 {background-position: 0 -1250px}
+.e61329 {background-position: 0 -1300px}
+.e182498 {background-position: 0 -1350px}
+.e237501 {background-position: 0 -1400px}
+.e41717 {background-position: 0 -1450px}
+.e84737 {background-position: 0 -1500px}
+.e105402 {background-position: 0 -1550px}
+.e203111 {background-position: 0 -1600px}
+.e21440 {background-position: 0 -1650px}
+.e9233 {background-position: 0 -1700px}
+.e209378 {background-position: 0 -1750px}
